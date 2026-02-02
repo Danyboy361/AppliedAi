@@ -1,0 +1,2 @@
+# AppliedAi
+ai-application-project
